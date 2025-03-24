@@ -1,7 +1,5 @@
 ## Hi, Gbemisola 👋
 
-Customer Service|Cloud Computing| Data Analyst
-
 ## About Me
 
 
