@@ -3,7 +3,7 @@
 ## About Me
 
 #### As a Cloud Engineer, I specialize in designing and managing cloud infrastructure
-#### I have experience with platforms like AWS Cloud
+#### I have experience with AWS Cloud platform
 #### My skills include automation, security, and optimizing cloud resources for performance and cost
 #### I enjoy solving complex problems and collaborating with teams to build scalable solutions
 #### In my free time, I like to explore new technologies and contribute to open-source projects 
