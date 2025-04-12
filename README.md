@@ -1,12 +1,13 @@
 # Hi, Gbemisola 👋
 
 ## About Me
-#### As a Cloud Engineer, I specialize in designing and managing cloud infrastructure
-#### I have experience with platforms like AWS Cloud
-#### My skills include automation, security, and optimizing cloud resources for performance and cost
-#### I enjoy solving complex problems and collaborating with teams to build scalable solutions
-#### In my free time, I like to explore new technologies and contribute to open-source projects 
-#### Let's connect and share ideas about cloud computing
+
+#### As a Cloud Engineer, I specialize in designing and managing cloud infrastructure
+#### I have experience with platforms like AWS Cloud
+#### My skills include automation, security, and optimizing cloud resources for performance and cost
+#### I enjoy solving complex problems and collaborating with teams to build scalable solutions
+#### In my free time, I like to explore new technologies and contribute to open-source projects 
+#### Let's connect and share ideas about cloud computing
 
 <!--
 **Gbemisola-Fad/Gbemisola-Fad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
