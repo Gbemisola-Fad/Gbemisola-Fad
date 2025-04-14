@@ -3,13 +3,7 @@
 
 ## About Me
 
-#### I’m a dedicated professional with a strong background in sales, customer support and business development, now making an exciting transition into the tech world as an AWS Cloud Computing with hands-on technology skills in Aws, and agilee methodology to solve problems. 
-
-#### My experience in AWS includes mastering AWS services like has taught me the importance of understanding customer needs and building lasting relationships. I’m passionate about technology and how it can solve real-world problems.
-
-As I dive into cloud computing, I’m eager to combine my people skills with my new technical knowledge to help businesses thrive in the digital age. 
-
-I believe that technology should be accessible and beneficial for everyone, and I’m excited to be part of that journey
+I used to work in business management, but now I'm focused on cloud computing. I have years of experience in sales, customer service, and business development, along with practical skills in ### AWS, ### DevOps, and ###  Agile methods to tackle big problems. I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
 
 #### As a Cloud Engineer, I specialize in managing cloud infrastructure
 #### I have experience with AWS Cloud platform
