@@ -3,7 +3,7 @@
 
 ## About Me
 
-I used to work in business management, but now I'm focused on cloud computing. I have years of experience in sales, customer service, and business development, along with practical skills in ### AWS, ### DevOps, and ###  Agile methods to tackle big problems. I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
+I used to work in business management, but now I'm focused on cloud computing. I have years of experience in sales, customer service, and business development, along with practical skills in ###AWS, ###DevOps, and ###Agile methods to tackle big problems. I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
 
 #### As a Cloud Engineer, I specialize in managing cloud infrastructure
 #### I have experience with AWS Cloud platform
