@@ -10,7 +10,7 @@ I used to work in business management, but now I'm focused on cloud computing. I
 
 ☁️ Cloud Computing & DevOps
 
-. AWS {EC2,  VPC,S3, IAM, Lambda, Amazon RDS, CloudWatch}
+. AWS {EC2, VPC, S3, IAM, Lambda, Amazon RDS, CloudWatch}
 
 . CI/CD, CloudFormation, Linux
 
