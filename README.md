@@ -1,16 +1,35 @@
 # Hi, Gbemisola 👋
-🚀 Cloud Enthusiast || Sales & Customer Support Expert || Bridging Business and Technology 
+🚀 I'm passionate about Cloud Computing || Sales & Customer Support || Using Technology to Create Meaningful Solutions
+
 
 ## About Me
 
-I used to work in business management, but now I'm focused on cloud computing. I have years of experience in sales, customer service, and business development, along with practical skills in ###AWS, ###DevOps, and ###Agile methods to tackle big problems. I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
+I used to work in business management, but now I'm focused on cloud computing. I have years of experience in sales, customer service, and business development, along with practical skills in AWS, DevOps, and Agile methods to tackle big problems. I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
 
-#### As a Cloud Engineer, I specialize in managing cloud infrastructure
-#### I have experience with AWS Cloud platform
-#### My skills include automation, security, and optimizing cloud resources for performance and cost
-#### I enjoy solving complex problems and collaborating with teams to build scalable solutions
-#### In my free time, I like to explore new technologies and contribute to open-source projects 
-#### Let's connect and share ideas about cloud computing
+## 🛠️ Tech Stack & Skills
+
+☁️ Cloud & DevOps
+. AWS (EC2, S3, IAM, VPC, Lambda, CloudWatch)
+
+. CI/CD, CloudFormation, Linux
+
+. Security Best Practices, Firewalls
+
+## 🐍 Scripting & Tools
+. Python & SQL
+
+. GitHub, Microsoft 365, Google Workspace
+
+## 🎯 What I’m Looking For
+I want to find a beginner or early-career job in Cloud, DevOps, or Technical Product Operations.I want to use my skills in AWS, Python, and Agile methods, along with my business knowledge, to help create innovative and efficient solutions that focus on users.
+
+My ideal job combines hands-on technical work (like managing cloud systems, automation, and analysis) with making a positive impact on the business (like helping with growth and improving customer experiences). 
+
+I'm particularly interested in working in teams where I can solve real problems, collaborate with others, and eventually move into leadership or product-focused roles.
+
+## 🌍 Let's Connect
+🔗 www.linkedin.com/in/gbemisola-v-ikuegbuwa
+
 
 <!--
 **Gbemisola-Fad/Gbemisola-Fad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
