@@ -8,7 +8,8 @@ I used to work in business management, but now I'm focused on cloud computing. I
 
 ## 🛠️ Tech Stack & Skills
 
-☁️ Cloud & DevOps
+☁️ Cloud Computing & DevOps
+
 . AWS (EC2, S3, IAM, VPC, Lambda, CloudWatch)
 
 . CI/CD, CloudFormation, Linux
