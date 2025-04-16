@@ -4,13 +4,14 @@
 
 ## About Me
 
-I used to work in business management, but now I'm focused on cloud computing. I have years of experience in sales, customer service, and business development, along with practical skills in AWS, DevOps, and Agile methods to tackle big problems. I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
+I have years of experience in sales, customer service, and business development, along with practical skills in AWS, DevOps, and Agile methods to tackle big problems.
+I'm currently moving into cloud-related jobs, combining my business knowledge with technical skills, really focusing on cloud computing. I've learned to use AWS services like EC2,VPC, S3, IAM, Lambda, Amazon RDB and CloudWatch, and I can write scripts in Python and Bash. I also explore DevOps automation with tools like CI/CD and CloudFormation. I enjoy building scalable systems and creating effective business solutions, working at the crossroads of technology and making a difference.
 
 ## 🛠️ Tech Stack & Skills
 
 ☁️ Cloud Computing & DevOps
 
-. AWS {EC2, VPC, S3, IAM, Lambda, Amazon RDS, CloudWatch}
+. AWS {EC2, VPC, S3, IAM, Lambda, Amazon RDS, CloudWatch, Cloudtrail}
 
 . CI/CD, CloudFormation, Linux
 
@@ -22,7 +23,7 @@ I used to work in business management, but now I'm focused on cloud computing. I
 . GitHub, Microsoft 365, Google Workspace
 
 ## 🎯 What I’m Looking For
-I want to find a beginner or early-career job in Cloud, DevOps, or Technical Product Operations.I want to use my skills in AWS, Python, and Agile methods, along with my business knowledge, to help create innovative and efficient solutions that focus on users.
+I want a beginner or early-career job in Cloud, DevOps, or Technical Product Operations.I want to use my skills in AWS, Python, and Agile methods, along with my business knowledge, to help create innovative and efficient solutions that focus on users.
 
 My ideal job combines hands-on technical work (like managing cloud systems, automation, and analysis) with making a positive impact on the business (like helping with growth and improving customer experiences). 
 
