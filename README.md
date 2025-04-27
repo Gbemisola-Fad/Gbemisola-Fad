@@ -32,6 +32,8 @@ I'm particularly interested in working in teams where I can solve real problems,
 ## 🌍 Let's Connect
 🔗 www.linkedin.com/in/gbemisola-v-ikuegbuwa
 
+🔗 www.credly.com/badges/731046c6-edc0-403d-be79-8daee878c7a7/public_url
+
 
 <!--
 **Gbemisola-Fad/Gbemisola-Fad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
