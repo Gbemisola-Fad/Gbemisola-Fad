@@ -30,7 +30,7 @@ My ideal job combines hands-on technical work (like managing cloud systems, auto
 I'm particularly interested in working in teams where I can solve real problems, collaborate with others, and eventually move into leadership or product-focused roles.
 
 ## 🌍 Let's Connect
-🔗 www.linkedin.com/in/gbemisola-v-ikuegbuwa
+🔗 www.linkedin.com/in/gbemisola-v
 
 🔗 www.credly.com/badges/731046c6-edc0-403d-be79-8daee878c7a7/public_url
 
