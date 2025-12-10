@@ -1,6 +1,6 @@
 
 # Hi, Gbemisola 👋
-🚀 I'm passionate about IT || Cloud Computing || Sales & Customer Support || Using Technology to Create Meaningful Solutions
+🚀 I'm passionate about Technology || Cloud Computing || Sales & Customer Support || Using Technology to Create Meaningful Solutions
 
 ## About Me
 
